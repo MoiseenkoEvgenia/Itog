@@ -1,0 +1,15 @@
+/Users/evgenia/Desktop/Example10/Itog/bin/Debug/net6.0/Itog
+/Users/evgenia/Desktop/Example10/Itog/bin/Debug/net6.0/Itog.deps.json
+/Users/evgenia/Desktop/Example10/Itog/bin/Debug/net6.0/Itog.runtimeconfig.json
+/Users/evgenia/Desktop/Example10/Itog/bin/Debug/net6.0/Itog.dll
+/Users/evgenia/Desktop/Example10/Itog/bin/Debug/net6.0/Itog.pdb
+/Users/evgenia/Desktop/Example10/Itog/obj/Debug/net6.0/Itog.csproj.AssemblyReference.cache
+/Users/evgenia/Desktop/Example10/Itog/obj/Debug/net6.0/Itog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgenia/Desktop/Example10/Itog/obj/Debug/net6.0/Itog.AssemblyInfoInputs.cache
+/Users/evgenia/Desktop/Example10/Itog/obj/Debug/net6.0/Itog.AssemblyInfo.cs
+/Users/evgenia/Desktop/Example10/Itog/obj/Debug/net6.0/Itog.csproj.CoreCompileInputs.cache
+/Users/evgenia/Desktop/Example10/Itog/obj/Debug/net6.0/Itog.dll
+/Users/evgenia/Desktop/Example10/Itog/obj/Debug/net6.0/refint/Itog.dll
+/Users/evgenia/Desktop/Example10/Itog/obj/Debug/net6.0/Itog.pdb
+/Users/evgenia/Desktop/Example10/Itog/obj/Debug/net6.0/Itog.genruntimeconfig.cache
+/Users/evgenia/Desktop/Example10/Itog/obj/Debug/net6.0/ref/Itog.dll
